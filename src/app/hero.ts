@@ -3,7 +3,7 @@ export interface Hero {
 }
 
 export const HEROES = [
-  { name: 'Dr IQ' },
-  { name: 'Magneta' },
-  { name: 'Bombasto' },
+  { name: 'Dr Rucha' },
+  { name: 'Shruti' },
+  { name: 'Nikhil' },
 ];
